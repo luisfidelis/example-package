@@ -1,6 +1,6 @@
 ## NAO_PUBLICADO
 
-
+* Gerar CPF aleatório
 ## [1.0.0] - 2021-10-13H20:30:00
 
 * Criação arquivo tsconfig.json
