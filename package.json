@@ -1,0 +1,28 @@
+{
+  "name": "example-package-ra-outubro",
+  "version": "1.0.0",
+  "description": "Esse pacote serve como exemplo na aula sobre criação de módulos NPMs",
+  "main": "build/src/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisfidelis/example-package.git"
+  },
+  "keywords": [
+    "cpf",
+    "academy",
+    "aula"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisfidelis/example-package/issues"
+  },
+  "homepage": "https://github.com/luisfidelis/example-package#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
