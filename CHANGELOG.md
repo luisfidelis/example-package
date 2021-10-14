@@ -1,5 +1,7 @@
 ## NAO_PUBLICADO
 
+## [1.3.0] - 2021-10-14H20:05:00
+
 * Buscando endereço por CEP
 
 ## [1.2.0] - 2021-10-14H19:46:00

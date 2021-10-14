@@ -1,6 +1,6 @@
 {
   "name": "example-package-ra-outubro",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Esse pacote serve como exemplo na aula sobre criação de módulos NPMs",
   "main": "build/src/index.js",
   "scripts": {
