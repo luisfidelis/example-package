@@ -1,5 +1,6 @@
 ## NAO_PUBLICADO
 
+* Buscando endereço por CEP
 
 ## [1.2.0] - 2021-10-14H19:46:00
 
