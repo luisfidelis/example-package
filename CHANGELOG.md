@@ -1,5 +1,8 @@
 ## NAO_PUBLICADO
 
+* Validação de CNPJ
+* Gerar CNPJ
+
 ## [1.1.2] - 2021-10-13H21:10:00
 
 * Subindo build corretamente 
