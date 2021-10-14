@@ -1,5 +1,9 @@
 ## NAO_PUBLICADO
 
+## [1.1.2] - 2021-10-13H21:10:00
+
+* Subindo build corretamente 
+
 ## [1.1.1] - 2021-10-13H21:05:00
 
 * Correção na validação do CPF
