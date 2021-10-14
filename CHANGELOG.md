@@ -1,5 +1,7 @@
 ## NAO_PUBLICADO
 
+## [1.1.1] - 2021-10-13H21:05:00
+
 * Correção na validação do CPF
 
 ## [1.1.0] - 2021-10-13H20:55:00
