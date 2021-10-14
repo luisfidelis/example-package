@@ -1,5 +1,8 @@
 ## NAO_PUBLICADO
 
+
+## [1.2.0] - 2021-10-14H19:46:00
+
 * Validação de CNPJ
 * Gerar CNPJ
 
