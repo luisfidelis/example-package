@@ -7,3 +7,4 @@ export const gerarCPF = CPFService.gerarCPF;
 
 // --- CNPJ
 export const validarCNPJ = CNPJService.validarCNPJ;
+export const gerarCNPJ = CNPJService.gerarCNPJ;
