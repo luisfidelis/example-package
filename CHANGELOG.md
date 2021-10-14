@@ -1,5 +1,7 @@
 ## NAO_PUBLICADO
 
+* Correção na validação do CPF
+
 ## [1.1.0] - 2021-10-13H20:55:00
 
 * Gerar CPF aleatório
