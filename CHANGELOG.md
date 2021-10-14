@@ -1,5 +1,9 @@
 ## NAO_PUBLICADO
 
+## [1.3.1] - 2021-10-14H20:08:00
+
+* Corrigindo build.
+
 ## [1.3.0] - 2021-10-14H20:05:00
 
 * Buscando endereço por CEP
