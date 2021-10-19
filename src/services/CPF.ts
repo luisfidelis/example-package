@@ -1,7 +1,7 @@
 export const validarCPF = (cpf: string) : boolean => {
   // --- teste
   if (cpf === null) {
-    return true;
+    return false;
   }
   if (cpf.length !== 11) {
     return false;
