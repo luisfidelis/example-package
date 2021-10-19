@@ -1,5 +1,6 @@
+
 export const validarCNPJ = (cnpj: string) : boolean => {
-  // --- test
+  // --- testando lint-staged
   cnpj = cnpj.replace(/[^\d]+/g, '');
 
   if (cnpj == '') return false;
