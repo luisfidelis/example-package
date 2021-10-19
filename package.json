@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/luisfidelis/example-package#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.1.0",
+    "@typescript-eslint/parser": "^5.1.0",
+    "eslint": "^8.0.1",
     "typescript": "^4.4.4"
   },
   "dependencies": {
