@@ -10,7 +10,7 @@ export class Produto {
 
   aplicarDesconto(valorDesconto: number) {
     if(valorDesconto > this.valor) {
-      this.valor = 0;
+      this.valor = -10;
     } else {
       this.valor = this.valor - valorDesconto;
     }
