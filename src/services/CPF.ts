@@ -1,4 +1,5 @@
 export const validarCPF = (cpf: string) : boolean => {
+  // --- teste
   if (cpf === null) {
     return false;
   }
