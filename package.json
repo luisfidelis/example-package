@@ -11,7 +11,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run lint"
+      "pre-commit": "lint-staged"
     }
   },
   "lint-staged": {
@@ -43,6 +43,6 @@
   },
   "dependencies": {
     "axios": "^0.23.0",
-    "husky": "^7.0.2"
+    "husky": "^4.3.8"
   }
 }
