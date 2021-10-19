@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from 'axios';
 
 export type Endereco = {
     cep: string;
@@ -14,8 +14,8 @@ export type Endereco = {
 }
 
 export const buscaEnderecoPorCEP = async (cep: string): Promise<Endereco> => {
-    const URL = 'https://viacep.com.br/ws/[CEP]/json/';
-    const search = URL.replace('[CEP]', cep);
-    const response = await axios.get<Endereco>(search);
-    return response.data;
-}
+  const URL = 'https://viacep.com.br/ws/[CEP]/json/';
+  const search = URL.replace('[CEP]', cep);
+  const response = await axios.get<Endereco>(search);
+  return response.data;
+};

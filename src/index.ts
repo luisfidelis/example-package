@@ -1,15 +1,15 @@
-import * as CPFService from "./services/CPF";
-import * as CNPJService from "./services/CNPJ";
-import * as CEPService from "./services/CEP";
+import * as CPFService from './services/CPF';
+import * as CNPJService from './services/CNPJ';
+import * as CEPService from './services/CEP';
 
 // --- CPF
-export const validarCPF = CPFService.validarCPF;
-export const gerarCPF = CPFService.gerarCPF;
+export const { validarCPF } = CPFService;
+export const { gerarCPF } = CPFService;
 
 // --- CNPJ
-export const validarCNPJ = CNPJService.validarCNPJ;
-export const gerarCNPJ = CNPJService.gerarCNPJ;
+export const { validarCNPJ } = CNPJService;
+export const { gerarCNPJ } = CNPJService;
 
 // --- CEP
-export const buscaEnderecoPorCEP = CEPService.buscaEnderecoPorCEP;
+export const { buscaEnderecoPorCEP } = CEPService;
 export type Endereco = CEPService.Endereco;
