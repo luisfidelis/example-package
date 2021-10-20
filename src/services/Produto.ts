@@ -17,4 +17,11 @@ export class Produto {
     return this.valor;
   }
 
+  aplicarAcrescimo(valorAcrescimo: number) {
+    if(!(valorAcrescimo < 0)) {
+      this.valor = this.valor + valorAcrescimo;
+    }
+    return this.valor;
+  }
+
 }
